@@ -1,0 +1,11 @@
+{
+  "name": "Treino A + B",
+  "short_name": "Treino A+B",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f5f5",
+  "theme_color": "#111111",
+  "description": "Treinos A e B com checklist e cargas editáveis."
+}
